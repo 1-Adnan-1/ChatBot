@@ -1,4 +1,4 @@
-# ChatBot
+# 🤖 ChatBot
 Bu proje, HTML, CSS ve JavaScript kullanarak geliştirilmiş bir **ChatBot** uygulamasıdır.
 
 ## 🚀 Özellikler
