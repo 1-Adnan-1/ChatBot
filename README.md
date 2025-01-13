@@ -8,9 +8,9 @@ Bu proje, HTML, CSS ve JavaScript kullanarak geliştirilmiş bir **ChatBot** uyg
 * Duyarlı Tasarım: Farklı cihazlarda sorunsuz bir şekilde çalışır.
 
 ## 🛠️ Kullanılan Teknolojiler
-**HTML**: Sayfa yapısı oluşturuldu.
-**CSS**: Uygulamanın görünümü ve temaları tasarlandı.
-**JavaScript**: ChatBot'un cevaplama ve tema değiştirme gibi dinamik özellikleri geliştirildi.
+* **HTML**: Sayfa yapısı oluşturuldu.
+* **CSS**: Uygulamanın görünümü ve temaları tasarlandı.
+* **JavaScript**: ChatBot'un cevaplama ve tema değiştirme gibi dinamik özellikleri geliştirildi.
 
 ## 📜 Gelecekteki Geliştirmeler
 * Kullanıcı ve ChatBot için avatar ekleme.
